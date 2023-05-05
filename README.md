@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hiii! I'm Ali Mutlu but you can say "happy" 😄<br><br>Welcome to my GitHub profile!<br><br>I'm a Computer Engineering student.<br><br>I'm developing myself in both frontend and backend parts.<br><br>I generally develop projects with React, Python, JavaScript, Node.js, Git, but as a hobby I develop small projects with C#.<br><br>In addition to these, I am making my own website. And now I am developing my blog site.<br><br>My hobbies are swimming, walking, reading, watching Marvel movies and making models.<br><br>In my spare time, I work on Machine Learning.<br><br>And my biggest goal is to be a leader in a world where Artificial Intelligence and Augmented Reality are intertwined, together with Metaverse, which is included in our lives with Web 3.0.
+Hiii! I'm Ali Mutlu but you can say "happy" 😄<br>Welcome to my GitHub profile!<br><br>I'm a Computer Engineering student.<br><br>I'm developing myself in both frontend and backend parts.<br>I generally develop projects with React, Python, JavaScript, Node.js, Git, but as a hobby I develop small projects with C#.<br><br>In addition to these, I am making my own website. And now I am developing my blog site.<br><br>My hobbies are swimming, walking, reading, watching Marvel movies and making models.<br>In my spare time, I work on Machine Learning.<br><br>And my biggest goal is to be a leader in a world where Artificial Intelligence and Augmented Reality are intertwined, together with Metaverse, which is included in our lives with Web 3.0.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,8 @@ Hiii! I'm Ali Mutlu but you can say "happy" 😄<br><br>Welcome to my GitHub pro
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=alihepi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=alihepi&theme=dark&hide_border=false) &#160;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihepi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alihepi&theme=dark&hide_border=false)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihepi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alihepi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -25,4 +25,3 @@ Hiii! I'm Ali Mutlu but you can say "happy" 😄<br><br>Welcome to my GitHub pro
 [![](https://visitcount.itsvg.in/api?id=alihepi&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
