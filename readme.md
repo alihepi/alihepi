@@ -31,9 +31,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 Graduating in **Computer Engineering (2025)** at Süleyman Demirel University  
-- 💻 Focused on **Web Development (React, Node.js)** and **Embedded Systems (Arduino)**  
-- 🚀 Built projects from academic work to personal initiatives, always aiming for **real-world impact**  
-- 🌱 Continuously improving my skills in **full-stack development & software architecture**
+- 💻 Mainly working with **JavaScript & Python**  
+- ⚡ Enjoy exploring **embedded systems and IoT projects** as a hobby  
+- 🚀 Built a few academic and personal projects to practice and improve my skills  
+- 🌱 Always looking to learn more about **full-stack development and modern web technologies**
 
 ---
 
