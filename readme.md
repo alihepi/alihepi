@@ -1,5 +1,5 @@
 <h1 align="center">Ali Mutlu</h1>
-<h3 align="center">AI & Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://alimutlu.net" target="_blank">🌍 alimutlu.net</a> • 
@@ -8,8 +8,6 @@
 </p>
 
 ---
-
-## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -28,17 +26,3 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
-- 🎓 Graduating in **Computer Engineering (2025)** at Süleyman Demirel University  
-- 💻 Mainly working with **JavaScript & Python**  
-- ⚡ Enjoy exploring **embedded systems and IoT projects** as a hobby  
-- 🚀 Built a few academic and personal projects to practice and improve my skills  
-- 🌱 Always looking to learn more about **full-stack development and modern web technologies**
-
----
-
-## 📌 Highlighted Projects
-- [**Netflix Clone**](https://github.com/alihepi/Netflix-Clone) — Streaming platform UI clone using React & Node.js  
-- [**ShoppingAssistant**](https://github.com/alihepi/ShoppingAssistant) — Smart shopping assistant 
-- [**Arduino 4WD Car**](https://github.com/alihepi/Arduino-4WD-Arac) — Autonomous & Bluetooth-controlled car built with Arduino   
